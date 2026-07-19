@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Borealise Auto Woot
-// @namespace    https://borealise.com/
+// @namespace    https://github.com/zealest
 // @version      1.0
-// @description  Auto woot
+// @description  Automatically upvotes every new song.
 // @author       pianoroll
 // @match        https://app.borealise.com/*
 // @grant        none
